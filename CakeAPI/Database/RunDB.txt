@@ -1,3 +1,5 @@
+// Cach run server
+// B1: install json server
 npm install -g json-server
-
+// B2: run command line
 json-server --watch cakeDB.json --port 5000
